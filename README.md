@@ -18,9 +18,11 @@ Uso esta licencia porqué me permite estudiar, modificar y restribuir el sofware
 En pocas palabras es la mejor opción por que quiero fomentar la cooperación, proteger el carácter libre del sofware y generar confianza entre cooperativas.
 
 **¿Por qué elegir la GNU GPL v3.0?**
+
 la eligo porque me permite crecer de forma abierta, colaborativa y con protección jurídica contra el uso cerrado.
 
 **¿Qué derechos doy a otros con la GPLv3?**
+
 1. Usar el programa con cualquier propósito.
 2. Estudiar cómo funciona el programa.
 3. Modificar el código para adaptarlo a sus necesidades.
@@ -29,9 +31,11 @@ la eligo porque me permite crecer de forma abierta, colaborativa y con protecci�
 Esto significa que mí software puede crecer con las aportaciones de otros, y tú también puedes beneficiarte de las mejoras que hagan.
 
 **¿Qué limitaciones impongo con la GPLv3?**
+
 doy libertad, pero exijo reciprocidad y reconocimiento. y tocan los mismo temas que el apartado.
 
 **¿Me conviene más a nivel económico y ético?**
+
 Si, si mí modelo es de servicios o SaaS. 
 
 Puedo liberar el código base bajo GPLv3 y ofrecer versiones adaptadas o alojamiento en la nube como servicio de pago. Esto me diferencia: las cooperativas confían más en una empresa que les da transparencia y autonomía, en lugar de depender de software cerrado y caro.
